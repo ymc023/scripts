@@ -1,5 +1,4 @@
- 
-运行环境 (Requirements)
+ 运行环境 (Requirements)
 ------- 
  - python 2.7.* <br>
 
@@ -7,6 +6,6 @@
 --------
 
 - 1.git clone https://github.com/ymc023/show_nginxlog.git or Download show_nginxlog.zip <br>
-- ![](https://github.com/ymc023/show_nginxlog/blob/master/READMEIMG/1.jpg) 
-- ![](https://github.com/ymc023/show_nginxlog/blob/master/READMEIMG/2.jpg)
+- ![](https://github.com/ymc023/scripts-pythonk/blob/master/show_nginxlog/READMEIMG/1.jpg) 
+- ![](https://github.com/ymc023/scripts-python/blob/master/show_nginxlog/READMEIMG/2.jpg)
 
