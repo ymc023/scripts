@@ -10,7 +10,7 @@ from setuptools import setup
 
 setup(
     name = 'tickets',
-    version = '0.1',
+    version = '20170117',
     author = 'ymc023',
     zip_safe=True,
     py_modules = ['tickets','stations'],
