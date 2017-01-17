@@ -4,4 +4,4 @@ Usage:
     
 
 
-![image](https://github.com/ymc023/tickets/blob/master/screenshot/tickets.jpg)
+![image](https://github.com/ymc023/scripts-python/blob/master/tickets_12306/screenshot/tickets.jpg)
