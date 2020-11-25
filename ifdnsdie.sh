@@ -61,7 +61,7 @@ Logg "关闭定时检测任务ifdnsdie.sh"
 function main(){
 contabls=`crontab -l|grep ifdnsdie.sh|wc -l` 
 if [ "$contabls" -eq 0 ];then 
-    Logg "定时监控dns脚本未配置，现在开始配置,可使用crontab -l查看."
+    Logg "定时监控dns脚本未配置，现在开始配置,可使用crontab -l查看详情."
     echo "*/1 * * * * /bin/sh /usr/local/sbin/ifdnsdie.sh" >>/var/spool/cron/root
     echo "已开启dns脚本监控."
 fi
